@@ -1,0 +1,18 @@
+body{
+    display: grid;
+    align-items: center;
+    text-align: center;
+}
+.netflix{
+    color: red;
+    width: auto;
+    background-color: rgba(16, 177, 16, 0.694);
+    padding: 80px;
+    font-size: 60px;
+    border-radius: 50px;
+    transition: 1s;
+}
+.netflix:hover{
+    background-color: rgba(208, 26, 26, 0.677);
+    color: white;
+}
